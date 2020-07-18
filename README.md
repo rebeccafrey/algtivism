@@ -12,7 +12,7 @@ I'll keep all the websites you create in a list here below, so once you have it 
 
 1. [https://danascript.github.io/algtivism/](https://danascript.github.io/algtivism/)
 2. [https://georginapuig.github.io/algtivism/](https://georginapuig.github.io/algtivism/)
-3.
+3. [https://rebeccafrey.github.io/algtivism/](https://rebeccafrey.github.io/algtivism/)
 
 ---
 
@@ -31,7 +31,7 @@ If you **_do_** want to change things here and there:
 1. Fork the repo
 2. Clone it to your machine
 3. Open it in an IDE of your choice
-4. In ```index.html``` search for **_FILL IN_** and replace with your content or with some suggestion from the Meta Tags section below (this is the most important part for the SEO.)
+4. In `index.html` search for **_FILL IN_** and replace with your content or with some suggestion from the Meta Tags section below (this is the most important part for the SEO.)
 5. Adjust some styles in `style.css` and change the content in `index.html`, check Images and Fonts section below
 6. Once you're done - push the changes to your repo and check the How to Publish section to go live!
 
@@ -41,11 +41,11 @@ _P.s. keep the website mobile friendly - important for SEO!_
 
 ### How to publish
 
-Once you have the repo in your GitHub, navigate to Settings > scroll to GitHub Pages section > in the source choose ```master branch``` and save! After some minutes your website should be up and running. 
+Once you have the repo in your GitHub, navigate to Settings > scroll to GitHub Pages section > in the source choose `master branch` and save! After some minutes your website should be up and running.
 
 ---
 
-  >If you have ANY questions - please reach out to me or here or on Instagram [@_danascript_](https://www.instagram.com/_danascript_/).
+> If you have ANY questions - please reach out to me or here or on Instagram [@_danascript_](https://www.instagram.com/_danascript_/).
 
 ---
 
@@ -53,9 +53,9 @@ Once you have the repo in your GitHub, navigate to Settings > scroll to GitHub P
 
 You are free to use any content you wish (don't forget to check for copyrights!) but here are some tips/suggestions:
 
-#### Meta tags 
+#### Meta tags
 
-_**TIP**_: type in the search engine the term the results of which you wish to change (e.g. professional hairstyles), navigate to an example of your choice, click on the page to get the dropdown menu (right/left click on the mouse depending on your preferences) and choose ```View Page Source```. Now press ```Command + F``` or ```Ctrl + F``` and search for ```title``` and then ```description``` and here you go! All the information you need.
+_**TIP**_: type in the search engine the term the results of which you wish to change (e.g. professional hairstyles), navigate to an example of your choice, click on the page to get the dropdown menu (right/left click on the mouse depending on your preferences) and choose `View Page Source`. Now press `Command + F` or `Ctrl + F` and search for `title` and then `description` and here you go! All the information you need.
 
 ##### Titles
 
@@ -76,10 +76,9 @@ _**TIP**_: type in the search engine the term the results of which you wish to c
 
 - On your way to an important meeting that can change your life? Discover here the most rewarding interview hairstyles.
 
-
 #### Images and Fonts
 
 I found the current content on [Pexels](pexels.com) and the font from [Google Fonts](https://fonts.google.com/).
-Always check for copyrights of images/fonts/anything else you're taking from the web! 
+Always check for copyrights of images/fonts/anything else you're taking from the web!
 
 For better SEO I highly recommend you to optimise the images (in Pexels you can already get them in the size you need) and run them through an optimising service (I use [Panda](https://tinypng.com/)).
